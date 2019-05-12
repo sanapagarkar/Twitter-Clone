@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\robpercival\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sana\\Desktop\\twitter\\Twitter\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Sana\\Desktop\\twitter\\Twitter\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\Desktop\\Whatsapp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\robpercival\\Desktop\\Whatsapp\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    }
+]
